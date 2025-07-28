@@ -1,1 +1,0 @@
-// version React hybride avec OpenAI Vision + diagnostic simulé
